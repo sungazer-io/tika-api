@@ -1,0 +1,35 @@
+{
+  "name": "tika-api",
+  "version": "0.0.1",
+  "description": "Apache Tika promise based API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikon-integration/tika-api.git"
+  },
+  "keywords": [
+    "tika",
+    "api",
+    "client",
+    "promise",
+    "apache",
+    "ocr",
+    "document",
+    "mime"
+  ],
+  "author": "Ikon Integration",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikon-integration/tika-api/issues"
+  },
+  "homepage": "https://github.com/ikon-integration/tika-api#readme",
+  "dependencies": {
+    "abind": "^1.0.5",
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.0",
+    "query-string-manipulator": "^1.2.2"
+  }
+}
