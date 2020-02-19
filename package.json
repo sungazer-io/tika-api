@@ -1,6 +1,6 @@
 {
   "name": "tika-api",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "description": "Apache Tika promise based API client",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
   "dependencies": {
     "abind": "^1.0.5",
     "esm": "^3.2.25",
+    "jszip": "^3.2.2",
     "node-fetch": "^2.6.0",
     "query-string-manipulator": "^1.2.2"
   }
