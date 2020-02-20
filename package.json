@@ -1,6 +1,6 @@
 {
   "name": "tika-api",
-  "version": "0.2.0",
+  "version": "0.2.7",
   "description": "Apache Tika promise based API client",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   "homepage": "https://github.com/ikon-integration/tika-api#readme",
   "dependencies": {
     "abind": "^1.0.5",
+    "csvtojson": "^2.0.10",
     "esm": "^3.2.25",
     "jszip": "^3.2.2",
     "node-fetch": "^2.6.0",
