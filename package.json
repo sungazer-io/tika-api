@@ -1,6 +1,6 @@
 {
   "name": "tika-api",
-  "version": "0.2.8",
+  "version": "0.3.2",
   "description": "Apache Tika promise based API client",
   "main": "index.js",
   "scripts": {
