@@ -1,4 +1,4 @@
-# tika-api
+# tika-api ![Node.js Package](https://github.com/ikon-integration/tika-api/workflows/Node.js%20Package/badge.svg)
 Apache Tika promise based API client
 
 ### Overall
